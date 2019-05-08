@@ -5,7 +5,7 @@ import java.io.*;
 /**
  * 文件操作
  *
- * @author zhangyu
+ * @author ymy
  */
 public class FileUtil {
     private static final String outputPath = "E:\\Java程序\\BookTest\\src\\编译原理实验课\\实验1\\version1\\output.dyd";

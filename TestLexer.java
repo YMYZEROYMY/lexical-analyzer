@@ -7,9 +7,6 @@ import java.io.FileNotFoundException;
  * 关键字，运算符一符一类
  * 标识符，常数，分隔符各自一类
  * 运算符未处理组合运算 ++、--、+= 等
- *
- * @author zhangyu
- * @version 3.0
  */
 public class TestLexer extends TypeUtil {
     private StringBuffer buffer = new StringBuffer(); // 缓冲区
