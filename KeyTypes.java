@@ -1,4 +1,4 @@
-package 编译原理实验课.实验1.version1;
+package lexicalAnalyzer;
 
 //单词符号与种别对照表
 public class KeyTypes {

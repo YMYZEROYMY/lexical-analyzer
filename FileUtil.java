@@ -1,4 +1,4 @@
-package 编译原理实验课.实验1.version1;
+package lexicalAnalyzer;
 
 import java.io.*;
 
